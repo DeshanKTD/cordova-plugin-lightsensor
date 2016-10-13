@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-lightsensor",
+  "version": "1.0.0",
+  "description": "Cordova Light Sensor Plugin",
+  "cordova": {
+    "id": "cordova-plugin-lightsensor",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeshanKTD/cordova-plugin-lightsensor"
+  },
+  "keywords": [
+    "cordova",
+    "light",
+    "illumination",
+    "ecosystem:cordova",
+    "length",
+    "close"
+  ],
+  "author": "Deshan Kalupahana",
+  "license": "MIT"
+}
