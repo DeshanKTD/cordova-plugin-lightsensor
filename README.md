@@ -40,6 +40,7 @@ This method get a single reading from the lightsensor sensor
   </code>
  </pre>
 
+
  `reading` object properties:
  - `intensity`
 
@@ -74,7 +75,7 @@ This helps get reapeated readings from the lightsensor sensor.
 window.plugin.lightsensor.stop
 ----------------------------
 
-Stops gettings readings from the lightsensor sensor.
+Stops getting readings from the lightsensor sensor.
 <pre>
 	<code>
 	  window.plugin.lightsensor.stop([watchID])
