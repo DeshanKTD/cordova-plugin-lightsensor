@@ -38,11 +38,13 @@ This method get a single reading from the lightsensor sensor
 	    }
   	)
   </code>
- </pre>
+</pre>
 
 
- `reading` object properties:
+ `reading` object properties
  - `intensity`
+
+
 
 
 window.plugin.lightsensor.watchReadings
